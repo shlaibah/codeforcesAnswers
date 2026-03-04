@@ -1,0 +1,7 @@
+*.bin
+*.out
+a.out
+
+.cph/
+
+.DS_Store
